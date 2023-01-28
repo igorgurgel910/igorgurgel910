@@ -17,7 +17,8 @@
   <a href="https://www.linkedin.com/in/igor-barreto-gurgel/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:igor910@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-   
+  <a href="https://app.slack.com/" target="_blank"><img src="https://img.shields.io/badge/Slack |Igor910-purple?style=for-the-badge&logo=slack&logoColor=white" target="_blank"></a>
+  <a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord |Igor910-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   
 </div>
 
