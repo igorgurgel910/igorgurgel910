@@ -24,7 +24,6 @@
 
 
 ## **Learning...**
-
 <div style="display: inline_block"><br>
   <img align="center" alt="igor910-Js" height="30" width="40" src="https://play-lh.googleusercontent.com/7NhwxJq45jv0Z1rerLLPZFtLnz2WZmqqmhwQ1uRgtv2o1wTsERjh_OT8vKYN0C_vig=w240-h480-rw">
     <img align="center" alt="=igor910-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
