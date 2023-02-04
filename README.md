@@ -113,8 +113,14 @@ E, o que estou estudando sobre tecnologias de desenvolvimento:
 
 <!-- SKILLSET:START -->
 
-## **Technologies & Tools**
-All these technologies,programming languages and tools I'm still learning.
+<details open>
+<summary>
+
+### Open/Close T&T
+
+</summary>
+
+All these technologies, programming languages and tools I'm still learning.
 
 <table>
 
@@ -295,10 +301,8 @@ I don't know any.
 
 <br/>
 
-<!-- SKILLSET:END -->
-
-<!-- CONTRIBUTION:START -->
+<!-- VIEW-COUNT:START -->
 <div align="center">
-    <img src="https://raw.githubusercontent.com/paulosalvatore/paulosalvatore/output/github-snake.svg" alt="Contribution Graph" />
+    <img src="https://komarev.com/ghpvc/?username=paulosalvatore&&style=flat-square" alt="Profile views count"/>
 </div>
-<!-- CONTRIBUTION:END -->
+<!-- VIEW-COUNT:END -->
