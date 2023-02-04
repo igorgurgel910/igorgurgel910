@@ -116,7 +116,7 @@ E, o que estou estudando sobre tecnologias de desenvolvimento:
 <details open>
 <summary>
 
-### Open/Close T&T
+### Technologies & tools
 
 </summary>
 
