@@ -114,6 +114,7 @@ E, o que estou estudando sobre tecnologias de desenvolvimento:
 <!-- SKILLSET:START -->
 
 ## **Technologies & Tools**
+All these technologies,programming languages and tools I'm still learning.
 
 <table>
 
@@ -125,8 +126,11 @@ E, o que estou estudando sobre tecnologias de desenvolvimento:
 <img style="margin: 10px" src="assets/html5.svg" alt="HTML5" title="HTML5" height="50" />
 <img style="margin: 10px" src="assets/css3.svg" alt="CSS3" title="CSS3" height="50" />
 <img style="margin: 10px" src="assets/javascript.svg" alt="JavaScript" title="JavaScript" height="50" />
-<img style="margin: 10px" src="assets/typescript.svg" alt="TypeScript" title="TypeScript" height="50" />
 <img style="margin: 10px" src="assets/nodejs.svg" alt="Node.js" title="Node.js" height="50" />
+
+### Want to learn
+
+<img style="margin: 10px" src="assets/typescript.svg" alt="TypeScript" title="TypeScript" height="50" />
 <img style="margin: 10px" src="assets/reactjs.svg" alt="React" title="React" height="50" />
 <img style="margin: 10px" src="assets/angular.svg" alt="Angular" title="Angular" height="50" />
 <img style="margin: 10px" src="assets/reactivex.svg" alt="ReactiveX" title="ReactiveX" height="50" />
@@ -138,7 +142,50 @@ E, o que estou estudando sobre tecnologias de desenvolvimento:
 </td>
 <td align="center" valign="top">
 
+### Backend
+
+<img style="margin: 10px" src="assets/javascript.svg" alt="JavaScript" title="JavaScript" height="50" />
+<img style="margin: 10px" src="assets/nodejs.svg" alt="Node.js" title="Node.js" height="50" />
+<img style="margin: 10px" src="assets/express.svg" alt="Express.js" title="Express.js" height="50" />
+
+### Want to learn
+
+<img style="margin: 10px" src="assets/typescript.svg" alt="TypeScript" title="TypeScript" height="50" />
+<img style="margin: 10px" src="assets/nestjs.svg" alt="NestJS" title="NestJS" height="50" />
+<img style="margin: 10px" src="assets/prisma.svg" alt="Prisma" title="Prisma" height="50" />
+<img style="margin: 10px" src="assets/reactivex.svg" alt="ReactiveX" title="ReactiveX" height="50" />
+<img style="margin: 10px" src="assets/serverless.svg" alt="Serverless" title="Serverless" height="50" />
+<img style="margin: 10px" src="assets/spring.svg" alt="Spring" title="Spring" height="50" />
+<img style="margin: 10px" src="assets/java.svg" alt="Java" title="Java" height="50" />
+<img style="margin: 10px" src="assets/kotlin.svg" alt="Kotlin" title="Kotlin" height="50" />
+<img style="margin: 10px" src="assets/php.svg" alt="PHP" title="PHP" height="50" />
+<img style="margin: 10px" src="assets/xampp.svg" alt="XAMPP" title="XAMPP" height="50" />
+
+</td>
+</tr>
+
+<tr>
+<td align="center" valign="top">
+
+### Database
+
+<img style="margin: 10px" src="assets/mysql.svg" alt="MySQL" title="MySQL" height="50" />
+<img style="margin: 10px" src="assets/mongodb.svg" alt="MongoDB" title="MongoDB" height="50" />
+
+### Want to learn
+
+<img style="margin: 10px" src="assets/mariadb.svg" alt="Maria DB" title="Maria DB" height="50" />
+<img style="margin: 10px" src="assets/firebase.svg" alt="Firebase" title="Firebase" height="50" />
+<img style="margin: 10px" src="assets/aws-dynamodb.svg" alt="DynamoDB" title="DynamoDB" height="50" />
+
+</td>
+<td align="center" valign="top">
+
 ### Games
+
+I don't know any.
+
+### Want to learn
 
 <img style="margin: 10px" src="assets/unity.svg" alt="Unity" title="Unity" height="50" /> 
 <img style="margin: 10px" src="assets/csharp.svg" alt="C#" title="C#" height="50" />
@@ -150,40 +197,11 @@ E, o que estou estudando sobre tecnologias de desenvolvimento:
 <tr>
 <td align="center" valign="top">
 
-### Backend
-
-<img style="margin: 10px" src="assets/nodejs.svg" alt="Node.js" title="Node.js" height="50" />
-<img style="margin: 10px" src="assets/javascript.svg" alt="JavaScript" title="JavaScript" height="50" />
-<img style="margin: 10px" src="assets/typescript.svg" alt="TypeScript" title="TypeScript" height="50" />
-<img style="margin: 10px" src="assets/nestjs.svg" alt="NestJS" title="NestJS" height="50" />
-<img style="margin: 10px" src="assets/prisma.svg" alt="Prisma" title="Prisma" height="50" />
-<img style="margin: 10px" src="assets/express.svg" alt="Express.js" title="Express.js" height="50" />
-<img style="margin: 10px" src="assets/reactivex.svg" alt="ReactiveX" title="ReactiveX" height="50" />
-<img style="margin: 10px" src="assets/serverless.svg" alt="Serverless" title="Serverless" height="50" />
-<img style="margin: 10px" src="assets/spring.svg" alt="Spring" title="Spring" height="50" />
-<img style="margin: 10px" src="assets/java.svg" alt="Java" title="Java" height="50" />
-<img style="margin: 10px" src="assets/kotlin.svg" alt="Kotlin" title="Kotlin" height="50" />
-<img style="margin: 10px" src="assets/php.svg" alt="PHP" title="PHP" height="50" />
-<img style="margin: 10px" src="assets/xampp.svg" alt="XAMPP" title="XAMPP" height="50" />
-
-</td>
-<td align="center" valign="top">
-
-### Database
-
-<img style="margin: 10px" src="assets/mariadb.svg" alt="Maria DB" title="Maria DB" height="50" />
-<img style="margin: 10px" src="assets/mysql.svg" alt="MySQL" title="MySQL" height="50" />
-<img style="margin: 10px" src="assets/mongodb.svg" alt="MongoDB" title="MongoDB" height="50" />
-<img style="margin: 10px" src="assets/firebase.svg" alt="Firebase" title="Firebase" height="50" />
-<img style="margin: 10px" src="assets/aws-dynamodb.svg" alt="DynamoDB" title="DynamoDB" height="50" />
-
-</td>
-</tr>
-
-<tr>
-<td align="center" valign="top">
-
 ### Mobile
+
+I don't know any.
+
+### Want to learn
 
 <img style="margin: 10px" src="assets/android.svg" alt="Android" title="Android" height="50" />
 <img style="margin: 10px" src="assets/kotlin.svg" alt="Kotlin" title="Kotlin" height="50" />
@@ -195,9 +213,12 @@ E, o que estou estudando sobre tecnologias de desenvolvimento:
 
 ### Cloud & DevOps
 
-<img style="margin: 10px" src="assets/aws.svg" alt="AWS" title="AWS" height="50" />
 <img style="margin: 10px" src="assets/git.svg" alt="Git" title="Git" height="50" />
 <img style="margin: 10px" src="assets/docker.svg" alt="Docker" title="Docker" height="50" />
+
+### Want to learn
+
+<img style="margin: 10px" src="assets/aws.svg" alt="AWS" title="AWS" height="50" />
 <img style="margin: 10px" src="assets/linux.svg" alt="Linux" title="Linux" height="50" />
 <img style="margin: 10px" src="assets/aws-cloudfront.svg" alt="AWS CloudFront" title="AWS CloudFront" height="50" />
 <img style="margin: 10px" src="assets/aws-s3.svg" alt="AWS S3" title="AWS S3" height="50" />
@@ -213,9 +234,12 @@ E, o que estou estudando sobre tecnologias de desenvolvimento:
 
 ### Hardware
 
+<img style="margin: 10px" src="assets/raspberry-pi.svg" alt="Raspberry Pi" title="Raspberry Pi" height="50" />
+
+### Want to learn
+
 <img style="margin: 10px" src="assets/arduino.svg" alt="Arduino" title="Arduino" height="50" />
 <img style="margin: 10px" src="assets/cplusplus.svg" alt="C++" title="C++" height="50" />
-<img style="margin: 10px" src="assets/raspberry-pi.svg" alt="Raspberry Pi" title="Raspberry Pi" height="50" />
 
 </td>
 <td align="center" valign="top">
@@ -223,6 +247,9 @@ E, o que estou estudando sobre tecnologias de desenvolvimento:
 ### AI
 
 <img style="margin: 10px" src="assets/python.svg" alt="Python" title="Python" height="50" />
+
+### Want to learn
+
 <img style="margin: 10px" src="assets/keras.svg" alt="Keras" title="Keras" height="50" />
 <img style="margin: 10px" src="assets/tensorflow.svg" alt="TensorFlow" title="TensorFlow" height="50" />
 <img style="margin: 10px" src="assets/opencv.svg" alt="OpenCV" title="OpenCV" height="50" />
@@ -235,31 +262,31 @@ E, o que estou estudando sobre tecnologias de desenvolvimento:
 
 ### Tools & IDEs
 
-<img style="margin: 10px" src="assets/miro.svg" alt="Miro" title="Miro" height="50" />
-<img style="margin: 10px" src="assets/github-desktop.svg" alt="GitHub Desktop" title="GitHub Desktop" height="50" />
-<img style="margin: 10px" src="assets/jetbrains-webstorm.svg" alt="WebStorm" title="WebStorm" height="50" />
 <img style="margin: 10px" src="assets/visual-studio-code.svg" alt="Visual Studio Code" title="Visual Studio Code" height="50" />
-<img style="margin: 10px" src="assets/jetbrains-rider.svg" alt="Rider" title="Rider" height="50" />
+<img style="margin: 10px" src="assets/miro.svg" alt="Miro" title="Miro" height="50" />
+<img src="https://camo.githubusercontent.com/05a3fa9cfe424a7f104406023afb081e80a47aac8a1f9d5334681f24c9a82bf4/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f392f39382f576f726450726573735f626c75655f6c6f676f2e7376672f3130323470782d576f726450726573735f626c75655f6c6f676f2e7376672e706e67" style="margin: 10px" alt="Wordpress" title="Wordpress" height="50" />
+<img style="margin: 10px" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Codepen-512.png" alt="Codepen" title="Codepen" height="50" />
+<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" alt="Notion" title="Notion" height="50" />
+<img style="margin: 10px" src="https://seeklogo.com/images/P/power-bi-icon-logo-E1B451ED39-seeklogo.com.png" alt="Power BI" title="Power BI" height="50" />
+
+### Want to learn
+
+<img style="margin: 10px" src="assets/visual-studio.svg" alt="Visual Studio" title="Visual Studio" height="50" />
+<img style="margin: 10px" src="assets/github-desktop.svg" alt="GitHub Desktop" title="GitHub Desktop" height="50" />
 <img style="margin: 10px" src="assets/android-studio.svg" alt="Android Studio" title="Android Studio" height="50" />
+<img style="margin: 10px" src="assets/jetbrains-webstorm.svg" alt="WebStorm" title="WebStorm" height="50" />
+<img style="margin: 10px" src="assets/jetbrains-rider.svg" alt="Rider" title="Rider" height="50" />
 <img style="margin: 10px" src="assets/jetbrains-pycharm.svg" alt="PyCharm" title="PyCharm" height="50" />
 <img style="margin: 10px" src="assets/jetbrains-intellij-idea.svg" alt="IntelliJ IDEA" title="IntelliJ IDEA" height="50" />
 <img style="margin: 10px" src="assets/jetbrains-phpstorm.svg" alt="PHPStorm" title="PHPStorm" height="50" />
-<img style="margin: 10px" src="assets/visual-studio.svg" alt="Visual Studio" title="Visual Studio" height="50" />
+
 
 </td>
 <td align="center" valign="top">
 
 ### Started with
 
-<img style="margin: 10px" src="assets/lua.svg" alt="Lua" title="Lua" height="50" />
-<img style="margin: 10px" src="assets/php.svg" alt="PHP" title="PHP" height="50" />
-<img style="margin: 10px" src="assets/xampp.svg" alt="XAMPP" title="XAMPP" height="50" />
-
-### Want to learn
-
-<img style="margin: 10px" src="assets/solidity.svg" alt="Solidity" title="Solidity" height="50" />
-<img style="margin: 10px" src="assets/rust.svg" alt="Rust" title="Rust" height="50" />
-<img style="margin: 10px" src="assets/graphql.svg" alt="GraphQL" title="GraphQL" height="50" />
+<img style="margin: 10px" src="assets/javascript.svg" alt="JavaScript" title="JavaScript" height="50" />
 
 </td>
 </tr>
@@ -270,4 +297,8 @@ E, o que estou estudando sobre tecnologias de desenvolvimento:
 
 <!-- SKILLSET:END -->
 
-
+<!-- CONTRIBUTION:START -->
+<div align="center">
+    <img src="https://raw.githubusercontent.com/paulosalvatore/paulosalvatore/output/github-snake.svg" alt="Contribution Graph" />
+</div>
+<!-- CONTRIBUTION:END -->
