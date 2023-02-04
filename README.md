@@ -1,17 +1,18 @@
 # **Olá! 👋 Eu sou Igor Gurgel :)**
-### Hi! 👋🏻 I'm Igor Gurgel :)<br>
+### Hi! 👋🏻 I'm Igor Gurgel :) <br>
 
 <!-- BIO:START -->
 Em primeiro lugar, você pode escolher o idioma Inglês ou Português para ler minha BIO.<br>
 First of all, you can choose de language English or Portuguese to read my BIO.<br>
 
-Abra/Feche o idioma **English (EN-US)** para ler em **Português (PT-BR)** <br>
-Open/Close the language **English (EN-U)** to read in **Portuguese (PT-BR)**
+Abra/Feche **English (EN-US)** para ler em **Português (PT-BR)** <br>
+Open/Close **English (EN-U)** to read in **Portuguese (PT-BR)**
 
 <img align="right" alt="programming" width="250" style="max witdh:100%;" src="https://media2.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b9529we9o1l9mduziljxbbecr6b9w35lnrt4j6blkedm&rid=200w.gif&ct=g">
 
+<br>
 <details open>
-<summary><small>English (EN-US)</small></summary></a>
+<summary><small>🔔 English (EN-US)</small></summary></a>
 
 ## **Come and know a little about me**
 
@@ -54,12 +55,10 @@ And, what I'm studying about development technologies:
 <!-- BIO:END -->
 
 <br>
-<br>
-<br>
 
 <!-- BIO:START -->
 <details>
-<summary><small>Português (PT-BR)</small></summary>
+<summary><small>🔔 Português (PT-BR)</small></summary>
 
 ## **Conheça um pouco sobre mim**
 
@@ -102,6 +101,25 @@ E, o que estou estudando sobre tecnologias de desenvolvimento:
 </details>
 <!-- BIO:END -->
 
+<br>
+<br>
+<br>
+<br>  
+
+<!-- STATS:START -->
+<div align="center">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/?username=igorgurgel910&theme=dracula&?theme=dark&show_icons=true%count_private=true&include_all_commits=true" alt="My stats" width="300" height="150"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=igorgurgel910&theme=dracula" alt="My contributions" width="300" height="150"/>
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=igorgurgel910&show_icons=true&langs_count=10&layout=compact&theme=dracula&count_private=true&hide=shaderlab,rpc,glsl,hlsl,cmake,asp" alt="My most used languages" width="300" height=150"/>
+</div>
+<!-- STATS:END -->
+
+<br/>
+
+
+
+  
+  
 <!-- SKILLSET:START -->
 
 ## Technologies & Tools
@@ -262,22 +280,3 @@ E, o que estou estudando sobre tecnologias de desenvolvimento:
 <!-- SKILLSET:END -->
 
 
-<!-- STATS:START -->
-
-<div align="center">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/?username=igorgurgel910&theme=dracula&?theme=dark&show_icons=true%count_private=true&include_all_commits=true" alt="My stats" width="300" height="150"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=igorgurgel910&theme=dracula" alt="My contributions" width="300" height="150"/>
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=igorgurgel910&show_icons=true&langs_count=10&layout=compact&theme=dracula&count_private=true&hide=shaderlab,rpc,glsl,hlsl,cmake,asp" alt="My most used languages" width="300" height=150"/>
-</div>
-
-<!-- STATS:END -->
-
-<br />
-
-<!-- VIEW-COUNT:START -->
-
-<div align="center">
-    <img src="https://komarev.com/ghpvc/?username=igorgurgel910&&style=flat-square" alt="Profile views count"/>
-</div>
-
-<!-- VIEW-COUNT:END -->
