@@ -303,6 +303,6 @@ I don't know any.
 
 <!-- VIEW-COUNT:START -->
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=paulosalvatore&&style=flat-square" alt="Profile views count"/>
+    <img src="https://komarev.com/ghpvc/?username=igorgurgel910&&style=flat-square" alt="Profile views count"/>
 </div>
 <!-- VIEW-COUNT:END -->
