@@ -264,14 +264,10 @@ E, o que estou estudando sobre tecnologias de desenvolvimento:
 
 <!-- STATS:START -->
 
-<div align="absolute">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/?username=igorgurgel910&theme=dracula&?theme=dark&show_icons=true%count_private=true&include_all_commits=true" alt="My stats" />
-</div>
-<div align="absolute">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=igorgurgel910&theme=dracula" alt="My contributions" />
-</div>
-<div align="absolute">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=igorgurgel910&show_icons=true&langs_count=10&layout=compact&theme=dracula&count_private=true&hide=shaderlab,rpc,glsl,hlsl,cmake,asp" alt="My most used languages" />
+<div align="center">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/?username=igorgurgel910&theme=dracula&?theme=dark&show_icons=true%count_private=true&include_all_commits=true" alt="My stats" width="300" height="150"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=igorgurgel910&theme=dracula" alt="My contributions" width="300" height="150"/>
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=igorgurgel910&show_icons=true&langs_count=10&layout=compact&theme=dracula&count_private=true&hide=shaderlab,rpc,glsl,hlsl,cmake,asp" alt="My most used languages" width="300" height=150"/>
 </div>
 
 <!-- STATS:END -->
