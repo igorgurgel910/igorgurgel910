@@ -1,14 +1,16 @@
 # **Olá! 👋 Eu sou Igor Gurgel :)**
 ### Hi! 👋🏻 I'm Igor Gurgel :) <br>
+<img align="right" alt="programming" width="250" style="max witdh:100%;" src="https://media2.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b9529we9o1l9mduziljxbbecr6b9w35lnrt4j6blkedm&rid=200w.gif&ct=g">
 
 <!-- BIO:START -->
 Em primeiro lugar, você pode escolher o idioma Inglês ou Português para ler minha BIO.<br>
-First of all, you can choose de language English or Portuguese to read my BIO.<br>
+First of all, you can choose de language English or Portuguese to read my BIO.
+<br>
 
 Abra/Feche **English (EN-US)** para ler em **Português (PT-BR)** <br>
 Open/Close **English (EN-U)** to read in **Portuguese (PT-BR)**
 
-<img align="right" alt="programming" width="250" style="max witdh:100%;" src="https://media2.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b9529we9o1l9mduziljxbbecr6b9w35lnrt4j6blkedm&rid=200w.gif&ct=g">
+
 
 <br>
 <details open>
