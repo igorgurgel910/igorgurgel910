@@ -5,15 +5,13 @@
 Em primeiro lugar, você pode escolher o idioma Inglês ou Português para ler minha BIO.<br>
 First of all, you can choose de language English or Portuguese to read my BIO.<br>
 
-Escolha o idioma: <a href="Português (PT-BR)">Português (PT-BR)</a><br>
-Choose the language: <a href="English (EN-US)">English (EN-US)</a>
+Feche o idioma English (EN-US) para ler em Português (PT-BR) <br>
+Close the language English (EN-US) to read in Portuguese (PT-BR)
 
 <details open>
-<a name="English (EN-US)"><summary><small>English (EN-US)</small></summary></a>
+<summary><small>English (EN-US)</small></summary></a>
   
 <img align="right" alt="programming" width="250" style="max witdh:100%;" src="https://media2.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b9529we9o1l9mduziljxbbecr6b9w35lnrt4j6blkedm&rid=200w.gif&ct=g">
-
-
 
 ### Come and know a little about me
 
@@ -28,21 +26,30 @@ Choose the language: <a href="English (EN-US)">English (EN-US)</a>
   <a href="https://instagram.com/igorbarretogurgel" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/igor-barreto-gurgel/" target="_blank"><img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
   <a href = "mailto:igor910@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.twitch.tv/igorgurgel910" target="_blank"><img src=https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white alt=twitch style="margin-bottom: 5px;" /></a>
  <br>
   <a href="https://app.slack.com/" target="_blank"><img src="https://img.shields.io/badge/Slack | Igor910-purple?style=for-the-badge&logo=slack&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord | igor910_5488-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+
 </div>
 <br>
 
 
   
-## Who am I?
+## **Who am I?**
+I'm Administrator and Project Manager. I'm a professional with 14 years of experience managing projects. And I discovered that I love math, technology and computers. So I decided to change my career to Product area and development.
 
-
-
-
-
-
+Now, let'me show you what I'm studying about management:
+  - Lean Six Sigma (OKR, Scrum and Kanban)
+  - Quality management
+  - Project management
+  - Product management
+ 
+And, what I'm studying about development technologies:
+  - algorithm an logic
+  - programming language
+  - a lot of tools
+  
 ## **Learning...**
 I'm studying all these tools through PM3 immersion.
 
@@ -107,8 +114,46 @@ I want to learn all these tools because I want to know a little about each one t
 </details>
 
 <details>
-<a name="Português (PT-BR)"><summary><small>Português (PT-BR)</small></summary>
+<summary><small>Português (PT-BR)</small></summary>
+<img align="right" alt="programming" width="250" style="max witdh:100%;" src="https://media2.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b9529we9o1l9mduziljxbbecr6b9w35lnrt4j6blkedm&rid=200w.gif&ct=g">
 
+### Conheça um pouco sobre mim
+
+- Me chamo Igor Gurgel
+- Moro em Natal/RN - Brazil 
+- Sou Administrador e Gerente de Projetos
+- Estou em transição de carreira para o mundo Tech 
+
+### Como contatar-me
+<div> 
+  <a href="https://twitter.com/igor910" target="_blank"><img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" /></a>
+  <a href="https://instagram.com/igorbarretogurgel" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/igor-barreto-gurgel/" target="_blank"><img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+  <a href = "mailto:igor910@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.twitch.tv/igorgurgel910" target="_blank"><img src=https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white alt=twitch style="margin-bottom: 5px;" /></a>
+ <br>
+  <a href="https://app.slack.com/" target="_blank"><img src="https://img.shields.io/badge/Slack | Igor910-purple?style=for-the-badge&logo=slack&logoColor=white" target="_blank"></a>
+  <a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord | igor910_5488-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+
+</div>
+<br>
+
+
+  
+## **Quem sou eu?**
+Eu sou Administrador e Gerente de Projetos. Sou um profissional com 14 anos de experiência em gerenciamento de projetos, e descobri que eu amo matemática, tecnologia e computadores. Então, decidi migrar minha carreira para a área de Produto e desenvolvimento.
+
+Agora, deixe-me mostrar o que estou estudando sobre gestão:
+  - Lean Six Sigma (OKR, Scrum and Kanban)
+  - Gestão de Qualidade
+  - Gestão de Projetos
+  - Gestão de Produto
+
+E, o que estou estudando sobre tecnologias de desenvolvimento:
+  - algoritmo e lógica
+  - linguagem de programação
+  - muitas ferramentas
+ 
 
 </details>
 <!-- BIO:END -->
