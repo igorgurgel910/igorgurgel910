@@ -1,17 +1,17 @@
 # **Olá! 👋 Eu sou Igor Gurgel :)**
 ### Hi! 👋🏻 I'm Igor Gurgel :)<br>
 
+<img align="right" alt="programming" width="250" style="max witdh:100%;" src="https://media2.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b9529we9o1l9mduziljxbbecr6b9w35lnrt4j6blkedm&rid=200w.gif&ct=g">
+
 <!-- BIO:START -->
 Em primeiro lugar, você pode escolher o idioma Inglês ou Português para ler minha BIO.<br>
 First of all, you can choose de language English or Portuguese to read my BIO.<br>
 
-Feche o idioma English (EN-US) para ler em Português (PT-BR) <br>
-Close the language English (EN-US) to read in Portuguese (PT-BR)
+Abra/Feche o idioma **English (EN-US)** para ler em **Português (PT-BR)** <br>
+Open/Close the language **English (EN-U)** to read in **Portuguese (PT-BR)**
 
 <details open>
 <summary><small>English (EN-US)</small></summary></a>
-  
-<img align="right" alt="programming" width="250" style="max witdh:100%;" src="https://media2.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b9529we9o1l9mduziljxbbecr6b9w35lnrt4j6blkedm&rid=200w.gif&ct=g">
 
 ### Come and know a little about me
 
@@ -33,8 +33,6 @@ Close the language English (EN-US) to read in Portuguese (PT-BR)
 
 </div>
 <br>
-
-
   
 ## **Who am I?**
 I'm Administrator and Project Manager. I'm a professional with 14 years of experience managing projects. And I discovered that I love math, technology and computers. So I decided to change my career to Product area and development.
