@@ -1,21 +1,47 @@
-# **Olá... Conheça um pouco sobre mim...**
+# **Olá! 👋 Eu sou Igor Gurgel :)**
+### Hi! 👋🏻 I'm Igor Gurgel :)<br>
+
+<!-- BIO:START -->
+Em primeiro lugar, você pode escolher o idioma Inglês ou Português para ler minha BIO.<br>
+First of all, you can choose de language English or Portuguese to read my BIO.<br>
+
+Escolha o idioma: <a href="Português (PT-BR)">Português (PT-BR)</a><br>
+Choose the language: <a href="English (EN-US)">English (EN-US)</a>
+
+<details open>
+<a name="English (EN-US)"><summary><small>English (EN-US)</small></summary></a>
+  
 <img align="right" alt="programming" width="250" style="max witdh:100%;" src="https://media2.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b9529we9o1l9mduziljxbbecr6b9w35lnrt4j6blkedm&rid=200w.gif&ct=g">
 
-- Igor Gurgel
-- Natal/RN - Brazil 
-- Adm | Project Manager 
-- Transition Career to the Tech World  
 
-**How to contact me...** 
+
+### Come and know a little about me
+
+- My name is Igor Gurgel
+- I live in Natal/RN - Brazil 
+- I'm Administrator | Project Manager 
+- I'm in transition career to the Tech World
+
+### How to contact me
 <div> 
+  <a href="https://twitter.com/igor910" target="_blank"><img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" /></a>
   <a href="https://instagram.com/igorbarretogurgel" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/igor-barreto-gurgel/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/igor-barreto-gurgel/" target="_blank"><img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
   <a href = "mailto:igor910@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <br>
-  <a href="https://app.slack.com/" target="_blank"><img src="https://img.shields.io/badge/Slack |Igor910-purple?style=for-the-badge&logo=slack&logoColor=white" target="_blank"></a>
-  <a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord |Igor910-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+  <a href="https://app.slack.com/" target="_blank"><img src="https://img.shields.io/badge/Slack | Igor910-purple?style=for-the-badge&logo=slack&logoColor=white" target="_blank"></a>
+  <a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord | igor910_5488-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 </div>
 <br>
+
+
+  
+## Who am I?
+
+
+
+
+
 
 ## **Learning...**
 I'm studying all these tools through PM3 immersion.
@@ -77,3 +103,12 @@ I want to learn all these tools because I want to know a little about each one t
 <a href="https://codepen.io/" title="wordpress" rel="nofollow"><img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Codepen-512.png" width="40px" height="40px" style="max-width: 100%;"></a>
 <a href="https://www.notion.so/pt-br" title="wordpress" rel="nofollow"><img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" width="40px" height="40px" style="max-width: 100%;"></a>
 <a href="https://www.notion.so/pt-br" title="wordpress" rel="nofollow"><img src="https://seeklogo.com/images/P/power-bi-icon-logo-E1B451ED39-seeklogo.com.png" width="40px" height="40px" style="max-width: 100%;"></a>
+
+</details>
+
+<details>
+<a name="Português (PT-BR)"><summary><small>Português (PT-BR)</small></summary>
+
+
+</details>
+<!-- BIO:END -->
