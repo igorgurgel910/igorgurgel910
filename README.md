@@ -8,22 +8,23 @@ First of all, you can choose de language English or Portuguese to read my BIO.
 <br>
 
 Abra/Feche **English (EN-US)** para ler em **Português (PT-BR)** <br>
-Open/Close **English (EN-U)** to read in **Portuguese (PT-BR)**
+Open/Close **English (EN-US)** to read in **Portuguese (PT-BR)**
 
 <br>
 <details open>
 <summary><small>🔔 English (EN-US)</small></summary></a>
 
-## **Come and know a little about me**
+## **👨 Come and know a little about me**
 
 - My name is Igor Gurgel
+- I'm 36 years old
 - I live in Natal/RN - Brazil 
 - I'm Administrator | Project Manager 
-- I'm in transition career to the Tech World
+- I'm in transition career to TI
 - I speak Portuguese, English and Spanish 
 - I'm learning NIHONGO (Japanese) 
 
-## **How to contact me**
+## **☎️ How to contact me**
 <div> 
   <a href="https://twitter.com/igor910" target="_blank"><img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" /></a>
   <a href="https://instagram.com/igorbarretogurgel" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -37,8 +38,12 @@ Open/Close **English (EN-U)** to read in **Portuguese (PT-BR)**
 </div>
 <br>
   
-## **Who am I?**
-I'm Administrator and Project Manager. I'm a professional with 14 years of experience managing projects. And I discovered that I love math, technology and computers. So I decided to change my career to Product area and development.
+## **🔰 Who am I?**
+I'm Administrator and Project Manager. I'm a professional with 14 years of experience managing projects. And I discovered that I love math, technology and computers. So I decided to change my career to Product area and Web development. 
+
+I'm focusing on Front-end, web development with JavaScript. I'm studying on-line at Harvard University's in the course Introduction to Computer Science, introduction to the intellectual enterprises of computer science and the art of programming.
+  
+I decided to change careers to IT on January 18th of this year, after talking to a friend, when I realized my interest in the area. I started studying algorithms and logic, so I don't have mastery, I'm in the process of learning and looking for a job to improve and learn.
 
 Now, let'me show you what I'm studying about management:
   - Lean Six Sigma (OKR, Scrum and Kanban)
@@ -48,8 +53,8 @@ Now, let'me show you what I'm studying about management:
  
 And, what I'm studying about development technologies:
   - Algorithm an logic
-  - Programming language
-  - A lot of tools
+  - Programming language focusing on JavaScript, HTML e CSS.
+  - A lot of tools and frameworks
   
 </details>
 <!-- BIO:END -->
@@ -60,16 +65,17 @@ And, what I'm studying about development technologies:
 <details>
 <summary><small>🔔 Português (PT-BR)</small></summary>
 
-## **Conheça um pouco sobre mim**
+## **👨 Conheça um pouco sobre mim**
 
 - Me chamo Igor Gurgel
+- Eu tenho 36 anos
 - Moro em Natal/RN - Brazil 
 - Sou Administrador e Gerente de Projetos
-- Estou em transição de carreira para o mundo Tech 
+- Estou em transição de carreira para TI
 - Eu falo Português, Inglês e Espanhol
 - Estou aprendendo NIHONGO (Japonês) 
 
-## **Como contatar-me**
+## **☎️ Como contatar-me**
 <div> 
   <a href="https://twitter.com/igor910" target="_blank"><img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" /></a>
   <a href="https://instagram.com/igorbarretogurgel" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -83,8 +89,12 @@ And, what I'm studying about development technologies:
 </div>
 <br>
   
-## **Quem sou eu?**
-Eu sou Administrador e Gerente de Projetos. Sou um profissional com 14 anos de experiência em gerenciamento de projetos, e descobri que eu amo matemática, tecnologia e computadores. Então, decidi migrar minha carreira para a área de Produto e desenvolvimento.
+## **🔰 Quem sou eu?**
+Eu sou Administrador e Gerente de Projetos. Sou um profissional com 14 anos de experiência em gerenciamento de projetos, e descobri que eu amo matemática, tecnologia e computadores. Então, decidi migrar minha carreira para a área de Produto e Desenvolvimento Web. 
+  
+Estou focando em Front-end, desenvolvimento web com JavaScript. Estou estudando on-line na Universidade de Harvard no curso Introdução à Ciência da Computação, introdução aos empreendimentos intelectuais da ciência da computação e à arte da programação.
+  
+Resolvi mudar de carreira para TI no dia 18 de janeiro deste ano, após conversar com um amigo, quando percebi meu interesse pela área. Comecei estudando algoritmos e lógica, então não tenho domínio, estou em processo de aprendizado e procurando um emprego para me aprimorar e aprender.
 
 Agora, deixe-me mostrar o que estou estudando sobre gestão:
   - Lean Six Sigma (OKR, Scrum and Kanban)
@@ -94,8 +104,8 @@ Agora, deixe-me mostrar o que estou estudando sobre gestão:
 
 E, o que estou estudando sobre tecnologias de desenvolvimento:
   - Algoritmo e lógica
-  - Linguagem de programação
-  - Muitas ferramentas
+  - Linguagem de programação com foco em JavaScript, HTML e CSS
+  - Muitas ferramentas e frameworks
 
 </details>
 <!-- BIO:END -->
@@ -116,11 +126,11 @@ E, o que estou estudando sobre tecnologias de desenvolvimento:
 <details open>
 <summary>
 
-### Technologies & tools
+### 💻 Technologies & tools
 
 </summary>
 
-All these technologies, programming languages and tools I'm still learning.
+All these technologies, programming languages and tools I'm still learning. 
 
 <table>
 
@@ -301,6 +311,8 @@ I don't know any.
 
 <br/>
 
+</details>                                                                                                     
+                                                                                                     
 <!-- VIEW-COUNT:START -->
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=igorgurgel910&&style=flat-square" alt="Profile views count"/>
