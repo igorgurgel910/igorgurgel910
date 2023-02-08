@@ -13,7 +13,7 @@ Clique em **English (EN-US)** para fechar e ler em **Português (PT-BR)** <br>
 <details open>
 <summary><small>🔔 English (EN-US)</small></summary></a>
 
-## **👨 Come and know a little about me**
+## **👨 Come and know a little about me...**
 
 - My name is Igor Gurgel
 - I'm 36 years old
@@ -23,7 +23,7 @@ Clique em **English (EN-US)** para fechar e ler em **Português (PT-BR)** <br>
 - I speak Portuguese, English and Spanish 
 - I'm learning NIHONGO (Japanese) 
 
-## **☎️ How to contact me**
+## **☎️ How to contact me...**
 <div> 
   <a href="https://twitter.com/igor910" target="_blank"><img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" /></a>
   <a href="https://instagram.com/igorbarretogurgel" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -64,7 +64,7 @@ And, what I'm studying about development technologies:
 <details>
 <summary><small>🔔 Português (PT-BR)</small></summary>
 
-## **👨 Conheça um pouco sobre mim**
+## **👨 Conheça um pouco sobre mim...**
 
 - Me chamo Igor Gurgel
 - Eu tenho 36 anos
@@ -74,7 +74,7 @@ And, what I'm studying about development technologies:
 - Eu falo Português, Inglês e Espanhol
 - Estou aprendendo NIHONGO (Japonês) 
 
-## **☎️ Como contatar-me**
+## **☎️ Como contatar-me...**
 <div> 
   <a href="https://twitter.com/igor910" target="_blank"><img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" /></a>
   <a href="https://instagram.com/igorbarretogurgel" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -111,23 +111,10 @@ E, o que estou estudando sobre tecnologias de desenvolvimento:
 
 <br>
 
-<!-- STATS:START -->
-<div align="center">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/?username=igorgurgel910&theme=dracula&?theme=dark&show_icons=true%count_private=true&include_all_commits=true" alt="My stats" width="300" height="150"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=igorgurgel910&theme=dracula" alt="My contributions" width="300" height="150"/>
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=igorgurgel910&show_icons=true&langs_count=10&layout=compact&theme=dracula&count_private=true&hide=shaderlab,rpc,glsl,hlsl,cmake,asp" alt="My most used languages" width="300" height=150"/>
-</div>
-<!-- STATS:END -->
+  <!-- SKILLSET:START -->
 
+## **💻 Technologies & tools**
 
-<!-- SKILLSET:START -->
-
-<details open>
-<summary>
-
-### 💻 Technologies & tools
-
-</summary>
 
 All these technologies, programming languages and tools I'm still learning. 
 
@@ -184,9 +171,16 @@ All these technologies, programming languages and tools I'm still learning.
 </td>
 <td align="center" valign="top">
 
-### I Started with
-                               
-<img style="margin: 10px" src="assets/javascript.svg" alt="JavaScript" title="JavaScript" height="30" />
+### Tools & IDEs
+
+<img style="margin: 10px" src="assets/visual-studio-code.svg" alt="Visual Studio Code" title="Visual Studio Code" height="30" />
+<img style="margin: 10px" src="assets/miro.svg" alt="Miro" title="Miro" height="30" />
+<img src="https://camo.githubusercontent.com/05a3fa9cfe424a7f104406023afb081e80a47aac8a1f9d5334681f24c9a82bf4/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f392f39382f576f726450726573735f626c75655f6c6f676f2e7376672f3130323470782d576f726450726573735f626c75655f6c6f676f2e7376672e706e67" style="margin: 10px" alt="Wordpress" title="Wordpress" height="30" />
+<img style="margin: 10px" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Codepen-512.png" alt="Codepen" title="Codepen" height="30" />
+<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" alt="Notion" title="Notion" height="30" />
+<img style="margin: 10px" src="https://seeklogo.com/images/P/power-bi-icon-logo-E1B451ED39-seeklogo.com.png" alt="Power BI" title="Power BI" height="30" />
+<img style="margin: 10px" src="assets/visual-studio.svg" alt="Visual Studio" title="Visual Studio" height="30" />
+<img style="margin: 10px" src="assets/github-desktop.svg" alt="GitHub Desktop" title="GitHub Desktop" height="30" />
 
 </td>
 </tr>
@@ -205,18 +199,9 @@ All these technologies, programming languages and tools I'm still learning.
 </td>
 <td align="center" valign="top">
 
-### Tools & IDEs
-
-<img style="margin: 10px" src="assets/visual-studio-code.svg" alt="Visual Studio Code" title="Visual Studio Code" height="30" />
-<img style="margin: 10px" src="assets/miro.svg" alt="Miro" title="Miro" height="30" />
-<img src="https://camo.githubusercontent.com/05a3fa9cfe424a7f104406023afb081e80a47aac8a1f9d5334681f24c9a82bf4/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f392f39382f576f726450726573735f626c75655f6c6f676f2e7376672f3130323470782d576f726450726573735f626c75655f6c6f676f2e7376672e706e67" style="margin: 10px" alt="Wordpress" title="Wordpress" height="30" />
-<img style="margin: 10px" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Codepen-512.png" alt="Codepen" title="Codepen" height="30" />
-<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" alt="Notion" title="Notion" height="30" />
-<img style="margin: 10px" src="https://seeklogo.com/images/P/power-bi-icon-logo-E1B451ED39-seeklogo.com.png" alt="Power BI" title="Power BI" height="30" />
-<img style="margin: 10px" src="assets/visual-studio.svg" alt="Visual Studio" title="Visual Studio" height="30" />
-<img style="margin: 10px" src="assets/github-desktop.svg" alt="GitHub Desktop" title="GitHub Desktop" height="30" />
-
-
+### I Started with
+                               
+<img style="margin: 10px" src="assets/javascript.svg" alt="JavaScript" title="JavaScript" height="30" />
 
 </td>
 </tr>
@@ -225,17 +210,24 @@ All these technologies, programming languages and tools I'm still learning.
 
 <br/>
 
-</details>                                                                                                     
-                                                                                                     
+  
+## **💡 Estatísticas do meu GitHub...**
+  
+<!-- STATS:START -->
+<div align="center">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/?username=igorgurgel910&theme=dracula&?theme=dark&show_icons=true%count_private=true&include_all_commits=true" alt="My stats" width="300" height="150"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=igorgurgel910&theme=dracula" alt="My contributions" width="300" height="150"/>
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=igorgurgel910&show_icons=true&langs_count=10&layout=compact&theme=dracula&count_private=true&hide=shaderlab,rpc,glsl,hlsl,cmake,asp" alt="My most used languages" width="300" height=150"/>
+</div>
+
+<!-- STATS:END -->
 <!-- VIEW-COUNT:START -->
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=igorgurgel910&&style=flat-square" alt="Profile views count"/>
 </div>
 <!-- VIEW-COUNT:END -->
 
-                                                                                                             
-                                                                                                             
-                                                                                                             
+  
 <details>
 
 I took this table from aonder github profile to track my skills.
