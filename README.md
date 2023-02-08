@@ -7,8 +7,7 @@ Em primeiro lugar, escolha o idioma Inglês ou Português para ler.<br>
 First of all, choose the language English or Portuguese to read.
 <br>
 
-Abra/Feche **English (EN-US)** para ler em **Português (PT-BR)** <br>
-Open/Close **English (EN-US)** to read in **Portuguese (PT-BR)**
+Clique em **English (EN-US)** para fechar e ler em **Português (PT-BR)** <br>
 
 <br>
 <details open>
@@ -20,7 +19,7 @@ Open/Close **English (EN-US)** to read in **Portuguese (PT-BR)**
 - I'm 36 years old
 - I live in Natal/RN - Brazil 
 - I'm Administrator | Project Manager 
-- I'm in transition career to TI
+- I'm in transition career to IT
 - I speak Portuguese, English and Spanish 
 - I'm learning NIHONGO (Japanese) 
 
@@ -132,6 +131,115 @@ E, o que estou estudando sobre tecnologias de desenvolvimento:
 
 All these technologies, programming languages and tools I'm still learning. 
 
+<table>
+
+<tr>
+<td align="center" width="50%" valign="top">
+
+### Learning right now
+
+<img style="margin: 10px" src="assets/html5.svg" alt="HTML5" title="HTML5" height="40" />
+<img style="margin: 10px" src="assets/css3.svg" alt="CSS3" title="CSS3" height="40" />
+<img style="margin: 10px" src="assets/javascript.svg" alt="JavaScript" title="JavaScript" height="30" />
+<img style="margin: 10px" src="assets/nodejs.svg" alt="Node.js" title="Node.js" height="30" />
+<img style="margin: 10px" src="assets/mysql.svg" alt="MySQL" title="MySQL" height="30" />
+<img style="margin: 10px" src="assets/mongodb.svg" alt="MongoDB" title="MongoDB" height="30" />
+<img style="margin: 10px" src="assets/git.svg" alt="Git" title="Git" height="30" />
+<img style="margin: 10px" src="assets/docker.svg" alt="Docker" title="Docker" height="30" />
+<img style="margin: 10px" src="assets/python.svg" alt="Python" title="Python" height="30" />
+
+</td>
+<td align="center" valign="top">
+
+### I want to learn soon
+
+<img style="margin: 10px" src="assets/express.svg" alt="Express.js" title="Express.js" height="30" />
+<img style="margin: 10px" src="assets/typescript.svg" alt="TypeScript" title="TypeScript" height="30" />
+<img style="margin: 10px" src="assets/reactjs.svg" alt="React" title="React" height="30" />
+<img style="margin: 10px" src="assets/angular.svg" alt="Angular" title="Angular" height="30" />
+<img style="margin: 10px" src="assets/sass.svg" alt="Sass" title="Sass" height="30" />
+<img style="margin: 10px" src="assets/jquery.svg" alt="jQuery" title="jQuery" height="30" />                               
+<img style="margin: 10px" src="assets/unity.svg" alt="Unity" title="Unity" height="30" /> 
+<img style="margin: 10px" src="assets/csharp.svg" alt="C#" title="C#" height="30" />
+<img style="margin: 10px" src="assets/cplusplus.svg" alt="C++" title="C++" height="30" />
+<img style="margin: 10px" src="assets/nestjs.svg" alt="NestJS" title="NestJS" height="30" />
+<img style="margin: 10px" src="assets/spring.svg" alt="Spring" title="Spring" height="30" />
+<img style="margin: 10px" src="assets/java.svg" alt="Java" title="Java" height="30" />
+<img style="margin: 10px" src="assets/php.svg" alt="PHP" title="PHP" height="30" />
+<img style="margin: 10px" src="assets/xampp.svg" alt="XAMPP" title="XAMPP" height="30" />
+
+</td>
+</tr>
+
+<tr>
+<td align="center" valign="top">
+
+### I have some notion
+
+<img style="margin: 10px" src="assets/photoshop.svg" alt="Photoshop" title="Photoshop" height="30" />
+<img style="margin: 10px" src="assets/linux.svg" alt="Linux" title="Linux" height="30" />
+<img style="margin: 10px" src="assets/raspberry-pi.svg" alt="Raspberry Pi" title="Raspberry Pi" height="30" />  
+
+
+</td>
+<td align="center" valign="top">
+
+### I Started with
+                               
+<img style="margin: 10px" src="assets/javascript.svg" alt="JavaScript" title="JavaScript" height="30" />
+
+</td>
+</tr>
+
+<tr>
+<td align="center" valign="top">
+
+### Curiosities
+
+<img style="margin: 10px" src="assets/android.svg" alt="Android" title="Android" height="30" />
+<img style="margin: 10px" src="assets/kotlin.svg" alt="Kotlin" title="Kotlin" height="30" />
+<img style="margin: 10px" src="assets/reactivex.svg" alt="ReactiveX" title="ReactiveX" height="30" />
+<img style="margin: 10px" src="assets/arduino.svg" alt="Arduino" title="Arduino" height="30" />
+
+                                                                                      
+</td>
+<td align="center" valign="top">
+
+### Tools & IDEs
+
+<img style="margin: 10px" src="assets/visual-studio-code.svg" alt="Visual Studio Code" title="Visual Studio Code" height="30" />
+<img style="margin: 10px" src="assets/miro.svg" alt="Miro" title="Miro" height="30" />
+<img src="https://camo.githubusercontent.com/05a3fa9cfe424a7f104406023afb081e80a47aac8a1f9d5334681f24c9a82bf4/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f392f39382f576f726450726573735f626c75655f6c6f676f2e7376672f3130323470782d576f726450726573735f626c75655f6c6f676f2e7376672e706e67" style="margin: 10px" alt="Wordpress" title="Wordpress" height="30" />
+<img style="margin: 10px" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Codepen-512.png" alt="Codepen" title="Codepen" height="30" />
+<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" alt="Notion" title="Notion" height="30" />
+<img style="margin: 10px" src="https://seeklogo.com/images/P/power-bi-icon-logo-E1B451ED39-seeklogo.com.png" alt="Power BI" title="Power BI" height="30" />
+<img style="margin: 10px" src="assets/visual-studio.svg" alt="Visual Studio" title="Visual Studio" height="30" />
+<img style="margin: 10px" src="assets/github-desktop.svg" alt="GitHub Desktop" title="GitHub Desktop" height="30" />
+
+
+
+</td>
+</tr>
+
+</table>
+
+<br/>
+
+</details>                                                                                                     
+                                                                                                     
+<!-- VIEW-COUNT:START -->
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=igorgurgel910&&style=flat-square" alt="Profile views count"/>
+</div>
+<!-- VIEW-COUNT:END -->
+
+                                                                                                             
+                                                                                                             
+                                                                                                             
+<details>
+
+I took this table from aonder github profile to track my skills.
+                                                                                                             
 <table>
 
 <tr>
@@ -309,12 +417,5 @@ I don't know any.
 
 </table>
 
-<br/>
-
 </details>                                                                                                     
-                                                                                                     
-<!-- VIEW-COUNT:START -->
-<div align="center">
-    <img src="https://komarev.com/ghpvc/?username=igorgurgel910&&style=flat-square" alt="Profile views count"/>
-</div>
-<!-- VIEW-COUNT:END -->
+                                                                                                             
