@@ -19,7 +19,7 @@ Clique em **English (EN-US)** para fechar e ler em **Português (PT-BR)** <br>
 - I'm 36 years old
 - I live in Natal/RN - Brazil 
 - I'm Administrator | Project Manager 
-- I'm in transition career to IT
+- I'm studying IT
 - I speak Portuguese, English and Spanish 
 - I'm learning NIHONGO (Japanese) 
 
@@ -38,14 +38,15 @@ Clique em **English (EN-US)** para fechar e ler em **Português (PT-BR)** <br>
 <br>
   
 ## **🔰 Who am I?**
-I'm Administrator and Project Manager. I'm a professional with 14 years of experience managing projects. And I discovered that I love math, technology and computers. So I decided to change my career to Product area and Web development. 
+I'm Administrator and Project Manager. I'm a professional with 14 years of experience managing projects. And I discovered that I love math, technology and computers. So I decided to study Product area and Web development to develop my knowledge.
 
 I'm focusing on Front-end, web development with JavaScript. I'm studying on-line at Harvard University's in the course Introduction to Computer Science, introduction to the intellectual enterprises of computer science and the art of programming.
   
-I decided to change careers to IT on January 18th of this year, after talking to a friend, when I realized my interest in the area. I started studying algorithms and logic, so I don't have mastery, I'm in the process of learning and looking for a job to improve and learn.
+I decided to study IT on January 18th of this year, after talking to a friend, when I realized my interest in the area. I started studying algorithms and logic, so I don't have mastery, I'm in the process of learning to improve and learn.
 
 Now, let'me show you what I'm studying about management:
-  - Lean Six Sigma (OKR, Scrum and Kanban)
+  - Lean Six Sigma
+  - OKR, Scrum and Kanban
   - Quality management
   - Project management
   - Product management
@@ -70,7 +71,7 @@ And, what I'm studying about development technologies:
 - Eu tenho 36 anos
 - Moro em Natal/RN - Brazil 
 - Sou Administrador e Gerente de Projetos
-- Estou em transição de carreira para TI
+- Estou estudando TI 
 - Eu falo Português, Inglês e Espanhol
 - Estou aprendendo NIHONGO (Japonês) 
 
@@ -89,14 +90,15 @@ And, what I'm studying about development technologies:
 <br>
   
 ## **🔰 Quem sou eu?**
-Eu sou Administrador e Gerente de Projetos. Sou um profissional com 14 anos de experiência em gerenciamento de projetos, e descobri que eu amo matemática, tecnologia e computadores. Então, decidi migrar minha carreira para a área de Produto e Desenvolvimento Web. 
+Eu sou Administrador e Gerente de Projetos. Sou um profissional com 14 anos de experiência em gerenciamento de projetos, e descobri que eu amo matemática, tecnologia e computadores. Então, decidi estudar a área de Produto e Desenvolvimento Web para desenvolver meus conhecimentos.
   
 Estou focando em Front-end, desenvolvimento web com JavaScript. Estou estudando on-line na Universidade de Harvard no curso Introdução à Ciência da Computação, introdução aos empreendimentos intelectuais da ciência da computação e à arte da programação.
   
-Resolvi mudar de carreira para TI no dia 18 de janeiro deste ano, após conversar com um amigo, quando percebi meu interesse pela área. Comecei estudando algoritmos e lógica, então não tenho domínio, estou em processo de aprendizado e procurando um emprego para me aprimorar e aprender.
+Resolvi estudar TI no dia 18 de janeiro deste ano, após conversar com um amigo, quando percebi meu interesse pela área. Comecei estudando algoritmos e lógica, então não tenho domínio, estou em processo de aprendizado para me aprimorar e aprender.
 
 Agora, deixe-me mostrar o que estou estudando sobre gestão:
-  - Lean Six Sigma (OKR, Scrum and Kanban)
+  - Lean Six Sigma
+  - OKR, Scrum and Kanban
   - Gestão de Qualidade
   - Gestão de Projetos
   - Gestão de Produto
